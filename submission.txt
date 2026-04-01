@@ -1,0 +1,13 @@
+Problem Understanding:
+Reconciliation mismatch detection.
+
+Approach:
+Python-based comparison.
+
+AI Usage:
+Mock AI summary added.
+
+Limitations:
+1. Not scalable
+2. Simplified logic
+3. No real API
